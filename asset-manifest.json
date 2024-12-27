@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.ed21d5dc.css",
+    "main.js": "/portfolio/static/js/main.62260b5d.js",
+    "static/js/453.ed3810f9.chunk.js": "/portfolio/static/js/453.ed3810f9.chunk.js",
+    "static/media/festManagement.png": "/portfolio/static/media/festManagement.e79730843b89069a5d0e.png",
+    "static/media/about.png": "/portfolio/static/media/about.dea1353d2f21afef3100.png",
+    "static/media/profile.png": "/portfolio/static/media/profile.dea1353d2f21afef3100.png",
+    "static/media/resume.pdf": "/portfolio/static/media/resume.87a8f29f0f8cdfda3a61.pdf",
+    "static/media/amazon.png": "/portfolio/static/media/amazon.4e54c2113cf729f675ae.png",
+    "static/media/projects.png": "/portfolio/static/media/projects.4e54c2113cf729f675ae.png",
+    "static/media/ncr.png": "/portfolio/static/media/ncr.425dd96246c9b36c55a5.png",
+    "static/media/virtusa.png": "/portfolio/static/media/virtusa.36fe211bf5fe7dc85c49.png",
+    "index.html": "/portfolio/index.html",
+    "main.ed21d5dc.css.map": "/portfolio/static/css/main.ed21d5dc.css.map",
+    "main.62260b5d.js.map": "/portfolio/static/js/main.62260b5d.js.map",
+    "453.ed3810f9.chunk.js.map": "/portfolio/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed21d5dc.css",
+    "static/js/main.62260b5d.js"
+  ]
+}
