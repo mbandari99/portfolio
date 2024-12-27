@@ -7,7 +7,8 @@ import Header from './components/header/Header';
 //  import Projects from './components/projects/Projects';
 import Contact from './components/contact/Contact';
 import Footer from './components/footer/Footer';
-import Experience from './components/experience/Experience'
+import Experience from './components/experience/Experience';
+import Projects from './components/projects/Projects';
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
       <Home/>
       <About/> 
       <Experience/>
+      <Projects/>
       <Skills/>
       <Contact/>
       <Footer/>

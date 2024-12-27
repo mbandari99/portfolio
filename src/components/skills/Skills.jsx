@@ -14,6 +14,7 @@ const Skills = () => {
                 <Backend/>
                 <Frontend/>
                 <Backend/>
+                
             </div>
         </section>
     )

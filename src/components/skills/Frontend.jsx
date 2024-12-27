@@ -9,7 +9,7 @@ const Frontend = () => {
             <div className="skills__group">
 
                 <div className="skills__data">
-                <i class='bx bx-badge-check'></i>
+                <i class='devicon-html5-plain colored'></i>
 
                 <div>
                     <h3 className="skills__name">HTML</h3>
@@ -18,7 +18,7 @@ const Frontend = () => {
                 </div>
 
                 <div className="skills__data">
-                <i class='bx bx-badge-check'></i>
+                <i class='devicon-css3-plain colored'></i>
 
                 <div>
                     <h3 className="skills__name">CSS</h3>
@@ -27,7 +27,7 @@ const Frontend = () => {
                 </div>
 
                 <div className="skills__data">
-                <i class='bx bx-badge-check'></i>
+                <i class='devicon-bootstrap-plain colored'></i>
 
                 <div>
                     <h3 className="skills__name">BootStrap</h3>
@@ -40,7 +40,7 @@ const Frontend = () => {
             <div className="skills__group">
 
                 <div className="skills__data">
-                <i class='bx bx-badge-check'></i>
+                <i class='devicon-javascript-plain colored'></i>
 
                 <div>
                     <h3 className="skills__name">JavaScript</h3>
@@ -49,7 +49,7 @@ const Frontend = () => {
                 </div>
 
                 <div className="skills__data">
-                <i class='bx bx-badge-check'></i>
+                <i class='devicon-react-original colored'></i>
 
                 <div>
                     <h3 className="skills__name">React</h3>
@@ -58,7 +58,7 @@ const Frontend = () => {
                 </div>
 
                 <div className="skills__data">
-                <i class='bx bx-badge-check'></i>
+                <i class='devicon-angularjs-plain colored'></i>
 
                 <div>
                     <h3 className="skills__name">Angular</h3>
