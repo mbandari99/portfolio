@@ -19,11 +19,11 @@ const Footer = () => {
 
             <div className="footer__social">
                 <a href="https://www.linkedin.com/in/mahathibandari" className="footer__social-link" target="_blank">
-                <i class="bx bxl-linkedin"></i>
+                <i className="bx bxl-linkedin"></i>
                 </a>
 
-                <a href="https://www.github.com/" className="footer__social-link" target="_blank">
-                <i class="bx bxl-github"></i>
+                <a href="https://www.github.com/MahathiBandarii" className="footer__social-link" target="_blank">
+                <i className="bx bxl-github"></i>
                 </a>
             </div>
 

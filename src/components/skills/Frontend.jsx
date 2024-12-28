@@ -9,28 +9,28 @@ const Frontend = () => {
             <div className="skills__group">
 
                 <div className="skills__data">
-                <i class='devicon-html5-plain colored'></i>
+                <i className='devicon-html5-plain colored'></i>
 
                 <div>
-                    <h3 className="skills__name">HTML</h3>
-                    <span className="skills__level">Intermediate</span>
-                </div>
-                </div>
-
-                <div className="skills__data">
-                <i class='devicon-css3-plain colored'></i>
-
-                <div>
-                    <h3 className="skills__name">CSS</h3>
+                    <h3 className="skills__name">HTML/CSS</h3>
                     <span className="skills__level">Expert</span>
                 </div>
                 </div>
 
                 <div className="skills__data">
-                <i class='devicon-bootstrap-plain colored'></i>
+                <i className='devicon-javascript-plain colored'></i>
 
                 <div>
-                    <h3 className="skills__name">BootStrap</h3>
+                    <h3 className="skills__name">JavaScript</h3>
+                    <span className="skills__level">Expert</span>
+                </div>
+                </div>
+
+                <div className="skills__data">
+                <i className='devicon-react-original colored'></i>
+
+                <div>
+                    <h3 className="skills__name">React</h3>
                     <span className="skills__level">Expert</span>
                 </div>
                 </div>
@@ -40,25 +40,25 @@ const Frontend = () => {
             <div className="skills__group">
 
                 <div className="skills__data">
-                <i class='devicon-javascript-plain colored'></i>
+                <i className='devicon-bootstrap-plain colored'></i>
 
                 <div>
-                    <h3 className="skills__name">JavaScript</h3>
+                    <h3 className="skills__name">BootStrap</h3>
                     <span className="skills__level">Expert</span>
                 </div>
                 </div>
 
                 <div className="skills__data">
-                <i class='devicon-react-original colored'></i>
+                <i className="devicon-typescript-plain colored"></i>
 
                 <div>
-                    <h3 className="skills__name">React</h3>
+                    <h3 className="skills__name">TypeScript</h3>
                     <span className="skills__level">Intermediate</span>
                 </div>
                 </div>
 
                 <div className="skills__data">
-                <i class='devicon-angularjs-plain colored'></i>
+                <i className='devicon-angularjs-plain colored'></i>
 
                 <div>
                     <h3 className="skills__name">Angular</h3>

@@ -34,7 +34,6 @@
 .home__subtitle {
     position: relative;
     font-size: var(--h3-font-size);
-    padding-left: 5.4rem;
     font-weight: var(--font-normal);
     margin-bottom: var(--mb-1);
 }
@@ -87,12 +86,21 @@
         height: 26px;
     }
 
+    .home__hii {
+        text-align: center;
+    }
+
+    .home__title {
+        text-align: center;
+    }
+
     .home__subtitle {
-        padding-left: 3.75rem;
+        text-align: center;
         margin-bottom: var(--mb-1);
     }
 
     .home__description {
+        text-align: center;
         max-width: initial;
         margin-bottom: var(-mb-2-5);
     }

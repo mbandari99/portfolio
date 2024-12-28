@@ -1,6 +1,6 @@
 import React from "react";
 import "./about.css";
-import AboutImg from "../../assets/about.png";
+import AboutImg from "../../assets/about.jpg";
 import Info from "./Info";
 import CV from "./../../assets/resume.pdf";
 
@@ -18,7 +18,7 @@ const About = () => {
                 <div className = "about__data">
                     <Info/>
                     <p className="about__description">
-                    I'm Mahathi, a motivated graduate student in Computer Science with four years of experience as a Software Engineer. Proficient in full-stack development and Agile methodologies, I specialize in Angular, Java, Python, and various web technologies. Currently pursuing a Master of Science in Computer Science with a focus on Data Science at the University of North Carolina at Charlotte.
+                    I'm a dedicated software engineer with over 4 years of professional experience in full-stack development and data science. I have a proven track record of designing and implementing scalable, data-driven solutions. My expertise includes a wide range of technologies such as React.js, Angular, Spring, Java, and Python, alongside proficiency in Agile methodologies and machine learning techniques. I am passionate about leveraging technology to deliver innovative solutions and create meaningful impact in dynamic and challenging environments.
                     </p>
                 </div>
 

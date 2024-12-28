@@ -11,34 +11,18 @@ import "swiper/css/navigation";
 
 const Projects = () => {
   return (
-    <section className="projects container section">
-      <h2 className="section__title">Projects</h2>
-      <span className="section__subtitle">My Learnings...</span>
+    <section className="projects container section" id="projects">
+      <p className="section__title">My Learnings...</p>
+      <h2 className="section__subtitle">Projects</h2>
 
       <Swiper
         className="projects__container"
-        // loop={true}
-        // spaceBetween={24}
-        // pagination={{
-        //   clickable: true,
-        // }}
-        // breakpoints={{
-        //   576: {
-        //     slidesPerView: 2,
-        //   },
-        //   768: {
-        //     slidesPerView: 3,
-        //     spaceBetween: 40,
-        //   }
-        // }}
-        // modules={[Pagination]}
-
         style={{
           "--swiper-navigation-color": "#000",
           "--swiper-pagination-color": "#000",
         }}
         spaceBetween={24}
-        lazy={true}
+        loop={true}
         breakpoints={{
           576: {
             slidesPerView: 2,

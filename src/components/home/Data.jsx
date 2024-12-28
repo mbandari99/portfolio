@@ -11,11 +11,11 @@ const Data = () => {
 
             <a href="#contact" className="button button--flex">
                 Say Hello &nbsp;
-                <i class="uil uil-location-arrow"></i>
+                <i className="uil uil-location-arrow"></i>
             </a> &nbsp; &nbsp;
 
             <a href= {CV} target="_blank" className="button button--flex" >Resume &nbsp; 
-            <i class="uil uil-angle-right-b"></i> </a>
+            <i className="uil uil-angle-right-b"></i> </a>
         </div>
 
     )

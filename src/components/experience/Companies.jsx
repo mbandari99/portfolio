@@ -20,23 +20,11 @@ const Companies = () => {
 
         <div className="experience__box">
           <p>
-            ● Developed a social media platform with React.js, Material UI and
-            Node.js, allowing users to add, delete, and comment on photos, and
-            optimized the MongoDB database schema for data storage and
-            retrieval.
-            <br />
-            ● Fetched model data from a web server using XMLHttpRequest and
-            parsed JSON responses for dynamic content rendering.
-            <br />
-            ● Created automation to clone GitHub repos, slashing TA assessment
-            time from half a day to 5 minutes.
-            <br />
-            ● Demonstrated strong knowledge and experience in Agile/Scrum
-            methodologies, effectively applying these practices and mentoring
-            students in creating and managing Issues in JIRA board.
-            <br />● Mentored 80 students in Software Engineering, delivering a
-            comprehensive curriculum and ensuring holistic evaluation for final
-            grades.
+          ● Developed a social media platform using React.js and Node.js, enabling users to add, delete, and comment on photos, and optimized the MongoDB schema for efficient data storage and retrieval.  <br/>
+          ● Automated GitHub repository cloning, reducing TA assessment time from half a day to just 5 minutes, significantly improving workflow efficiency.  <br/>
+          ● Guided Agile teams by defining user stories, managing tasks on JIRA boards, and conducting regular sprint meetups, resulting in a 20% boost in team collaboration and a 15% increase in development efficiency.  <br/>
+          ● Mentored and evaluated 80 students in Software Engineering, delivering a structured curriculum and providing comprehensive feedback to ensure academic excellence.  <br/>
+          ● Fetched and parsed JSON data using XMLHttpRequest for seamless dynamic content rendering, enhancing the application’s user experience.  
           </p>
         </div>
       </div>
@@ -53,44 +41,14 @@ const Companies = () => {
         </div>
         <div className="experience__box">
           <p>
-            ● Spearheaded the development of the "Builder" product, an
-            innovative Automated Teller Machine (ATM) solution for the banking
-            sector. This solution facilitates flow creation and interface screen
-            direction, leveraging Angular for the front-end UI and Spring MVC
-            Technologies for robust back-end functionality.
-            <br />
-            ● Enhanced ATM solution UI with Angular migration, yielding a 10%
-            performance boost. Streamlined load times and interactions of
-            screens with responsive design.
-            <br />
-            ● Implemented microservices with morphs, reducing efforts for
-            creating ATM screens by 50%, and presented processes to communicate
-            with stakeholders effectively.
-            <br />
-            ● Spearheaded user story-centric RESTful API endpoints with Spring
-            MVC controllers, seamlessly integrating Postgres SQL connections via
-            Maven dependencies from JFrog.
-            <br />
-            ● Utilized the Hibernate framework to develop an efficient data
-            access layer enhancing application performance and customer
-            experience.
-            <br />
-            ● Developed shell scripts, Configured Jenkins triggers, and CI/CD
-            pipelines with Git and Docker, reducing errors by 21%
-            organization-wide, and documented processes for consistency and
-            future reference.
-            <br />
-            ● Executed the software deployment process using Agile methodology,
-            ensuring effective launches.
-            <br />
-            ● Participated in design and code reviews, ensuring best practices
-            and enhancing code quality.
-            <br />
-            ● Efficiently resolved software bugs ahead of schedule,
-            significantly enhancing product stability and improving user
-            satisfaction.
-            <br />● Tailored Mockito automated testing leveraging Protractor,
-            facilitating effective coordination with cross-functional teams.
+          ● Developed the "Builder" product, an ATM solution for creating flows and interface screens using Angular for front-end UI, Spring MVC for back-end functionality, and PostgreSQL for database integration.  <br/>
+          ● Migrated ATM solution UI to Angular, achieving a 10% performance boost, with improved load times and responsive design.  <br/>
+          ● Engineered a microservice using RESTful APIs, reducing ATM screen creation efforts by 50% and enhancing developer productivity.  <br/>
+          ● Designed and implemented an efficient data access layer using the Hibernate framework, improving application performance and scalability.  <br/>
+          ● Configured CI/CD pipelines with Jenkins, Git, Docker, and JFrog, reducing deployment errors by 21% and streamlining workflows.  <br/>
+          ● Integrated JFrog for artifact storage and retrieval, optimizing build and deployment processes.  <br/>
+          ● Achieved 92% code coverage using Protractor and JUnit, ensuring high-quality standards through automated testing and rigorous code reviews.  <br/>
+          ● Automated testing and debugging with Mockito, resolving software bugs ahead of schedule and enhancing product reliability.  
           </p>
         </div>
       </div>
