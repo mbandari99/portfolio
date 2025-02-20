@@ -9,7 +9,7 @@ const Social = () => {
             <i className="uil uil-linkedin-alt"></i>
             </a>
 
-            <a href="https://www.github.com/MahathiBandarii" className="home__social-icon" target="_blank">
+            <a href="https://www.github.com/mbandari99" className="home__social-icon" target="_blank">
             <i className="uil uil-github-alt"></i>
             </a>
 

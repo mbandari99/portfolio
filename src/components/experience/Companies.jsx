@@ -3,10 +3,33 @@ import UnccImg from "../../assets/uncc.png";
 import NcrImg from "../../assets/ncr.png";
 import VirtusaImg from "../../assets/virtusa.png";
 import AmazonImg from "../../assets/amazon.png";
+import RandstadImg from "../../assets/salemAutomation.png"
 
 const Companies = () => {
   return (
     <>
+
+<div className="experience__content">
+        <div className="experience__nameImg">
+          <div className="experience__info">
+            <p className="experience__year"> January 2025 - Present</p>
+            <h3 className="experience__title">Software Developer</h3>
+          </div>
+          <div className="experience__image">
+            <img src={RandstadImg} alt="Experience Image" />
+          </div>
+        </div>
+
+        <div className="experience__box">
+          <p>
+          ● Designed and implemented a scalable Python application within the Ignition platform, integrating RESTful APIs to enable seamless data exchange and improving system performance.  <br/>
+          ● Migrated complex Crisp logic to Python scripts within Ignition, streamlining process automation and improving execution efficiency.  <br/>
+          ● Optimized database operations using Microsoft SQL Server, ensuring efficient data storage, retrieval, and management.  <br/>
+          ● Created interactive screens and views to enhance user experience, improve accessibility, and streamline workflow to clients.
+          </p>
+        </div>
+      </div>
+
       <div className="experience__content">
         <div className="experience__nameImg">
           <div className="experience__info">

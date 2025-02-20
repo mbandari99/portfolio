@@ -15,6 +15,8 @@ const Home = () => {
                     <Data/>
                 </div>
             </div>
+            <br />
+            <br />
         </section>
     )
 }

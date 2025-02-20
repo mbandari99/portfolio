@@ -12,8 +12,8 @@ const DBCloud = () => {
             <i className="devicon-mysql-original colored"></i>
 
             <div>
-              <h3 className="skills__name">MySQL</h3>
-              <span className="skills__level">Expert</span>
+              <h3 className="skills__name">MySQL</h3><br />
+              <span className="skills__level"></span>
             </div>
           </div>
 
@@ -21,8 +21,8 @@ const DBCloud = () => {
             <i className="devicon-mongodb-plain colored"></i>
 
             <div>
-              <h3 className="skills__name">MongoDB</h3>
-              <span className="skills__level">Beginner</span>
+              <h3 className="skills__name">MongoDB</h3><br />
+              <span className="skills__level"></span>
             </div>
           </div>
 
@@ -30,8 +30,8 @@ const DBCloud = () => {
             <i className="devicon-postgresql-plain colored"></i>
 
             <div>
-              <h3 className="skills__name">Postgres</h3>
-              <span className="skills__level">Expert</span>
+              <h3 className="skills__name">Postgres</h3><br />
+              <span className="skills__level"></span>
             </div>
           </div>
         </div>
@@ -42,7 +42,7 @@ const DBCloud = () => {
 
             <div>
               <h3 className="skills__name">JFrog</h3>
-              <span className="skills__level">Expert</span>
+              <span className="skills__level"></span>
             </div>
           </div>
 
@@ -51,7 +51,7 @@ const DBCloud = () => {
 
             <div>
               <h3 className="skills__name">AWS</h3>
-              <span className="skills__level">Intermediate</span>
+              <span className="skills__level"></span>
             </div>
           </div>
 
@@ -60,7 +60,7 @@ const DBCloud = () => {
 
             <div>
               <h3 className="skills__name">Azure</h3>
-              <span className="skills__level">Beginner</span>
+              <span className="skills__level"></span>
             </div>
           </div>
         </div>

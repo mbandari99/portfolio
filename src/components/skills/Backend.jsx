@@ -15,8 +15,8 @@ const Backend = () => {
             />
 
             <div>
-              <h3 className="skills__name">Java</h3>
-              <span className="skills__level">Expert</span>
+              <h3 className="skills__name">Java</h3><br />
+              <span className="skills__level"></span>
             </div>
           </div>
 
@@ -27,8 +27,8 @@ const Backend = () => {
             />
 
             <div>
-              <h3 className="skills__name">Python</h3>
-              <span className="skills__level">Intermediate</span>
+              <h3 className="skills__name">Python</h3><br />
+              <span className="skills__level"></span>
             </div>
           </div>
 
@@ -36,8 +36,8 @@ const Backend = () => {
             <i className="devicon-spring-original colored"></i>
 
             <div>
-              <h3 className="skills__name">Spring</h3>
-              <span className="skills__level">Expert</span>
+              <h3 className="skills__name">Spring</h3><br />
+              <span className="skills__level"></span>
             </div>
           </div>
         </div>
@@ -51,7 +51,7 @@ const Backend = () => {
 
             <div>
               <h3 className="skills__name">NodeJS</h3>
-              <span className="skills__level">Intermediate</span>
+              <span className="skills__level"></span>
             </div>
           </div>
 
@@ -60,7 +60,7 @@ const Backend = () => {
 
             <div>
               <h3 className="skills__name">Flask</h3>
-              <span className="skills__level">Intermediate</span>
+              <span className="skills__level"></span>
             </div>
           </div>
 
@@ -69,7 +69,7 @@ const Backend = () => {
 
             <div>
               <h3 className="skills__name">PHP</h3>
-              <span className="skills__level">Intermediate</span>
+              <span className="skills__level"></span>
             </div>
           </div>
         </div>

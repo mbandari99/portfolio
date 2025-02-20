@@ -14,8 +14,8 @@ const Tools = () => {
             />
 
             <div>
-              <h3 className="skills__name">Jenkins</h3>
-              <span className="skills__level">Expert</span>
+              <h3 className="skills__name">Jenkins</h3><br />
+              <span className="skills__level"></span>
             </div>
           </div>
 
@@ -23,8 +23,8 @@ const Tools = () => {
             <i className="devicon-postman-plain colored"></i>
 
             <div>
-              <h3 className="skills__name">Postman</h3>
-              <span className="skills__level">Expert</span>
+              <h3 className="skills__name">Postman</h3><br />
+              <span className="skills__level"></span>
             </div>
           </div>
 
@@ -34,8 +34,8 @@ const Tools = () => {
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
 
             <div>
-              <h3 className="skills__name">Kubernetes</h3>
-              <span className="skills__level">Beginner</span>
+              <h3 className="skills__name">Kubernetes</h3><br />
+              <span className="skills__level"></span>
             </div>
           </div>
         </div>
@@ -46,7 +46,7 @@ const Tools = () => {
 
             <div>
               <h3 className="skills__name">Docker</h3>
-              <span className="skills__level">Expert</span>
+              <span className="skills__level"></span>
             </div>
           </div>
 
@@ -55,7 +55,7 @@ const Tools = () => {
 
             <div>
               <h3 className="skills__name">Kafka</h3>
-              <span className="skills__level">Beginner</span>
+              <span className="skills__level"></span>
             </div>
           </div>
 
@@ -64,7 +64,7 @@ const Tools = () => {
 
             <div>
               <h3 className="skills__name">Git</h3>
-              <span className="skills__level">Expert</span>
+              <span className="skills__level"></span>
             </div>
           </div>
         </div>

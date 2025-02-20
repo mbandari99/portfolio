@@ -12,8 +12,7 @@ const Frontend = () => {
                 <i className='devicon-html5-plain colored'></i>
 
                 <div>
-                    <h3 className="skills__name">HTML/CSS</h3>
-                    <span className="skills__level">Expert</span>
+                    <h3 className="skills__name">HTML/CSS</h3><br />
                 </div>
                 </div>
 
@@ -21,8 +20,7 @@ const Frontend = () => {
                 <i className='devicon-javascript-plain colored'></i>
 
                 <div>
-                    <h3 className="skills__name">JavaScript</h3>
-                    <span className="skills__level">Expert</span>
+                    <h3 className="skills__name">JavaScript</h3><br />
                 </div>
                 </div>
 
@@ -30,8 +28,7 @@ const Frontend = () => {
                 <i className='devicon-react-original colored'></i>
 
                 <div>
-                    <h3 className="skills__name">React</h3>
-                    <span className="skills__level">Expert</span>
+                    <h3 className="skills__name">React</h3><br />
                 </div>
                 </div>
 
@@ -44,7 +41,6 @@ const Frontend = () => {
 
                 <div>
                     <h3 className="skills__name">BootStrap</h3>
-                    <span className="skills__level">Expert</span>
                 </div>
                 </div>
 
@@ -53,7 +49,6 @@ const Frontend = () => {
 
                 <div>
                     <h3 className="skills__name">TypeScript</h3>
-                    <span className="skills__level">Intermediate</span>
                 </div>
                 </div>
 
@@ -62,7 +57,6 @@ const Frontend = () => {
 
                 <div>
                     <h3 className="skills__name">Angular</h3>
-                    <span className="skills__level">Expert</span>
                 </div>
                 </div>
                 
