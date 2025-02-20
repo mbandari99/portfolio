@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.9df8a795.css",
-    "main.js": "/portfolio/static/js/main.a85d403f.js",
+    "main.css": "/portfolio/static/css/main.1e65d9d0.css",
+    "main.js": "/portfolio/static/js/main.b0288ade.js",
     "static/js/453.ed3810f9.chunk.js": "/portfolio/static/js/453.ed3810f9.chunk.js",
-    "static/media/about.jpg": "/portfolio/static/media/about.0e2de8619c3ede735e2e.jpg",
     "static/media/breastCancer.png": "/portfolio/static/media/breastCancer.c10bb7c72f37d9361c8b.png",
     "static/media/covidDashboard.png": "/portfolio/static/media/covidDashboard.956439bf8b4d60f65213.png",
     "static/media/schoolManagement.jpg": "/portfolio/static/media/schoolManagement.43e2ad14fb4a9c7f99fd.jpg",
     "static/media/festManagement.png": "/portfolio/static/media/festManagement.e79730843b89069a5d0e.png",
     "static/media/profile.png": "/portfolio/static/media/profile.dea1353d2f21afef3100.png",
-    "static/media/resume.pdf": "/portfolio/static/media/resume.87a8f29f0f8cdfda3a61.pdf",
+    "static/media/about.jpg": "/portfolio/static/media/about.ae46fb02321705b8414c.jpg",
+    "static/media/resume.pdf": "/portfolio/static/media/resume.3c4ff02bd7f388fe4819.pdf",
     "static/media/insuranceRatio.png": "/portfolio/static/media/insuranceRatio.4b7e131f81d36b31ec1e.png",
     "static/media/amazon.png": "/portfolio/static/media/amazon.4e54c2113cf729f675ae.png",
     "static/media/sentimentalAnalysis.png": "/portfolio/static/media/sentimentalAnalysis.85df45808711b2faa3f5.png",
@@ -17,12 +17,12 @@
     "static/media/ncr.png": "/portfolio/static/media/ncr.425dd96246c9b36c55a5.png",
     "static/media/virtusa.png": "/portfolio/static/media/virtusa.36fe211bf5fe7dc85c49.png",
     "index.html": "/portfolio/index.html",
-    "main.9df8a795.css.map": "/portfolio/static/css/main.9df8a795.css.map",
-    "main.a85d403f.js.map": "/portfolio/static/js/main.a85d403f.js.map",
+    "main.1e65d9d0.css.map": "/portfolio/static/css/main.1e65d9d0.css.map",
+    "main.b0288ade.js.map": "/portfolio/static/js/main.b0288ade.js.map",
     "453.ed3810f9.chunk.js.map": "/portfolio/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9df8a795.css",
-    "static/js/main.a85d403f.js"
+    "static/css/main.1e65d9d0.css",
+    "static/js/main.b0288ade.js"
   ]
 }
